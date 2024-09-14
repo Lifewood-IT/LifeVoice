@@ -16,10 +16,6 @@
         {
             "ServerName": "Mongolian",
             "WebAPI": "http://35.72.182.54/"
-        },
-        {
-            "ServerName": "本地测试",
-            "WebAPI": "http://127.0.0.1/"
         }
     ],
 
