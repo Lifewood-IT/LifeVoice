@@ -10,8 +10,8 @@
             "WebAPI": "http://18.188.175.107/"
         },
         {
-            "ServerName": "Multilingual2",
-            "WebAPI": "http://13.212.123.205/"
+            "ServerName": "Multilingual3",
+            "WebAPI": "http://47.129.116.149/"
         },
         {
             "ServerName": "Mongolian",
@@ -24,4 +24,5 @@
     "Remark1": "VoiceServerList列表是录音服务器",
     "Remark2": "RegisterServer里面是IP是ios注册需要用到的服务器",
     "Remark3": "Multilingual 52.221.247.45改成新的IP 13.212.123.205,2024.10.26",	
+    "Remark3": "Multilingual 13.212.123.205改成新的IP 47.129.116.149,2024.10.27",	
 }
